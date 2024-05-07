@@ -12,36 +12,40 @@ people:
 - name:  Aa
   pic: 1
   position: (WP1: Earth as Exoplanet)
+  social:
+   - title: linkedin
+      url: #
 
-- name:  A
-  pic: 1
-  position: (WP1: Earth as Exoplanet)
-
-- name:  Aa
-  pic: 1
-  position: (WP1: Earth as Exoplanet)
-
-- name: Larry Parker
+- name:  B
   pic: 2
-  position: Lead Marketer
+  position: (WP2: Radiation Sensing)
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
+   - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name:  C
   pic: 3
-  position: Lead Developer
+  position: (WP3: Autonomous Sensing)
   social:
-    - title: twitter
+   - title: linkedin
       url: #
-    - title: facebook
+
+- name:  D
+  pic: 4
+  position: Principal Investigator (WP4: Relative PNT)
+  social:
+   - title: linkedin
       url: #
-    - title: google-plus
+
+- name:  E
+  pic: 5
+  position: Lead Partnerships
+  social:
+   - title: linkedin
       url: #
+  
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
