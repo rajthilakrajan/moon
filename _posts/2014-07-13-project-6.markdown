@@ -2,7 +2,7 @@
 title: WP1
 subtitle: Study of Earth as an Exoplanet from Lunar Surface
 layout: default
-modal-id: 6
+modal-id: 1
 date: 2014-07-15
 img: WP1.png
 thumbnail: WP1.png
