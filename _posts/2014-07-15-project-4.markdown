@@ -4,7 +4,7 @@ subtitle: Autonomous sensing on Lunar surface-based systems
 layout: default
 modal-id: 3
 #date: 2014-07-15
-img: Wp3.png
+img: WP3.png
 thumbnail: WP3.png
 alt: image-alt
 #project-date: April 2014
