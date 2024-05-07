@@ -12,37 +12,37 @@ people:
 - name:  Victor Tress
   pic: 1
   position: WP1-Earth as Exoplanet
-  social:
-   - title: linkedin
-      url: #
+ # social:
+  # - title: linkedin
+   #   url: #
 
 - name:  Alessandra Menucucci
   pic: 2
   position: WP2-Radiation Sensing
-  social:
-   - title: linkedin
-      url: #
+#  social:
+   #- title: linkedin
+    #  url: #
 
 - name:  Fabio Sebastiano
   pic: 3
   position: WP3-Autonomous Sensing
-  social:
-   - title: linkedin
-      url: #
+#  social:
+   #- title: linkedin
+    #  url: #
 
 - name:  Raj Thilak Rajan
   pic: 4
   position: Principal Investigator, WP4-Relative PNT
-  social:
-   - title: linkedin
-      url: #
+#  social:
+   #- title: linkedin
+    #  url: #
 
 - name:  Prachi Sachdeva
   pic: 5
   position: Lead Partnerships
-  social:
-   - title: linkedin
-      url: #
+#  social:
+  # - title: linkedin
+   #   url: #
   
 
 
