@@ -9,35 +9,35 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name:  Aa
+- name:  Victor Tress
   pic: 1
   position: (WP1: Earth as Exoplanet)
   social:
    - title: linkedin
       url: #
 
-- name:  Bb
+- name:  Alessandra Menucucci
   pic: 2
   position: (WP2: Radiation Sensing)
   social:
    - title: linkedin
       url: #
 
-- name:  C
+- name:  Fabio Sebastiano
   pic: 3
   position: (WP3: Autonomous Sensing)
   social:
    - title: linkedin
       url: #
 
-- name:  D
+- name:  Raj Thilak Rajan
   pic: 4
   position: Principal Investigator (WP4: Relative PNT)
   social:
    - title: linkedin
       url: #
 
-- name:  E
+- name:  Prachi Sachdeva
   pic: 5
   position: Lead Partnerships
   social:
