@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name:  Victor Trees
+- name:  A
   pic: 1
-  WP1: Earth as Exoplanet
+  position: (WP1: Earth as Exoplanet)
 
 - name: Larry Parker
   pic: 2
