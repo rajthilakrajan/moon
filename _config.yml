@@ -9,16 +9,10 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name:  Victor Trees
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: Principal investigator
+  WP1: Earth as Exoplanet
 
 - name: Larry Parker
   pic: 2
